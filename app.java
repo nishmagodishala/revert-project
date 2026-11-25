@@ -4,5 +4,9 @@ public class app {
 		system.out.println("Welcome to Devops");
 		system.out.println("Addition is:"+(a+b));
 		system.out.println("Subtraction is:"+(a-b));
+	        system.out.println("product is:"+(a*b)
+		system.out.println("Division is:"+(a/b));
+
+
 	}
 }
